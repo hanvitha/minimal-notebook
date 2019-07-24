@@ -27,3 +27,4 @@ distributed
 tornado<6.0.0
 flask-restplus
 flask
+cv2
