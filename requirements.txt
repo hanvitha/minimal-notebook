@@ -1,4 +1,4 @@
-ipython==7.3.0
+ipython==7.16.3
 ipywidgets==7.4.2
 itsdangerous==1.1.0 
 jedi==0.13.3
